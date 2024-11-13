@@ -1,4 +1,4 @@
-# CS Project : Recreate the Heap Function in C
+# CS Project : Recreate Heap in C
 
 This documentation outlines the implementation details and usage of our custom memory allocation functions: mymalloc(), myfree(), myrealloc(), and mycalloc(). These functions are designed to allocate memory on the heap of a program using the brk(2) and sbrk(2) system calls.
 ### Prerequisites
