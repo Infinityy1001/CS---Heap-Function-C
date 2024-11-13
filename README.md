@@ -1,1 +1,1 @@
-# Computer Science Project : Recreate the Heap Function in C
+# CS Project : Recreate the Heap Function in C
